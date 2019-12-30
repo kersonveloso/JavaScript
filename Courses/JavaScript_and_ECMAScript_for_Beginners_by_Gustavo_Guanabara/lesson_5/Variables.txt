@@ -1,0 +1,20 @@
+Comments: 
+// Single line comment
+/*
+  Block of comments
+*/  
+
+Variable names:
+- Variables can begin with $ or _
+- Must not start with numbers
+- It's possible to use leters and numbers
+- Can't have special character 
+- spaces are not allowed
+- Reserved words musto not be used
+
+Variables
+let, var, const 
+
+Types of variables:
+- primitiives: number, string, null, unidentified, biging
+- object, symbol

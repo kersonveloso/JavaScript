@@ -1,0 +1,5 @@
+Requirements:
+Software
+- Chrome;
+- VSCode;
+- Node.JS.
