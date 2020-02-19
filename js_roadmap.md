@@ -1,6 +1,8 @@
 # **JS Roadmap**
+This is my roadmap from Zero to Hero in JavaScript.  
 
 ## Javascript Fundamentals
+
 - [x] Code Structure
 - [x] The modern mode, "use strict"
 - [x] Variables
@@ -12,11 +14,12 @@
 - [x] Logical Operators
 - [x] Loops: while and for
 - [x] The "switch" statement
-- [x] Functions
-- [x] Function expressions
-- [x] Arrow functions, the basics 
+- [ ] Functions
+- [ ] Function expressions
+- [ ] Arrow functions, the basics 
 
 ## Advanced working with functions / Arrow functions
+
 - [ ] Recursion and stack
 - [ ] Rest parameters and spread syntax
 - [ ] Variable scope
@@ -30,6 +33,7 @@
 - [ ] Arrow functions revisited
 
 ## Objects
+
 - [x] Objects
 - [ ] Garbage collection
 - [ ] Symbol type
@@ -38,6 +42,7 @@
 - [ ] Constructor, operator "new"
 
 ## Classes
+
 - [x] Class basic syntax
 - [ ] Class inheritance
 - [ ] Static properties and methods
@@ -47,15 +52,18 @@
 - [ ] Mixins
 
 ## Modules
+
 - [x] Modules
 - [ ] Export and Import
 - [ ] Dynamic imports
 
 ## Error handling
-- [ ] Error handling, "try..catch"
+
+- [x] Error handling, "try..catch"
 - [x] Custom errors, extending Error
 
 ## Promises /  Asynchronus requests
+
 - [x] Introduction: callbacks
 - [ ] Promise
 - [ ] Promises chaining
@@ -66,12 +74,15 @@
 - [ ] Async/await
 
 ## Destructuring 
+
 - [ ] Destructuring assignment
 
 ## Spread operator
+
 - [ ] Rest parameters and spread syntax
   
 ## High order array functions
+
 - [x] map()
 - [x] foreEach()
 - [x] every()
