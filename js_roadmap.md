@@ -1,4 +1,4 @@
-# **JS Roadmap**
+# **JS Roadmap** :rocket:
 This is my roadmap from Zero to Hero in JavaScript.  
 
 ## Javascript Fundamentals
@@ -16,7 +16,8 @@ This is my roadmap from Zero to Hero in JavaScript.
 - [x] The "switch" statement
 - [x] Functions
 - [x] Function expressions
-- [x] Arrow functions, the basics 
+- [x] Arrow functions, the basics
+- [ ] DOM  
 
 ## Advanced working with functions / Arrow functions
 
@@ -65,7 +66,7 @@ This is my roadmap from Zero to Hero in JavaScript.
 ## Promises /  Asynchronus requests
 
 - [x] Introduction: callbacks
-- [ ] Promise
+- [x] Promise
 - [ ] Promises chaining
 - [ ] Error handling with promises
 - [ ] Promise API
