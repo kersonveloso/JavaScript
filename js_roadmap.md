@@ -21,8 +21,8 @@ This is my roadmap from Zero to Hero in JavaScript.
 
 ## Advanced working with functions / Arrow functions
 
-- [ ] Recursion and stack
-- [ ] Rest parameters and spread syntax
+- [x] Recursion and stack
+- [x] Rest parameters and spread syntax
 - [ ] Variable scope
 - [ ] The old "var"
 - [ ] Global object
@@ -39,18 +39,18 @@ This is my roadmap from Zero to Hero in JavaScript.
 - [x] Garbage collection
 - [x] Symbol type
 - [x] Object methods, "this"
-- [ ] Object to primitive conversion
-- [ ] Constructor, operator "new"
+- [x] Object to primitive conversion
+- [x] Constructor, operator "new"
 
 ## Classes
 
 - [x] Class basic syntax
-- [ ] Class inheritance
-- [ ] Static properties and methods
-- [ ] Private and protected properties and methods
-- [ ] Extending built-in classes
-- [ ] Class checking: "instanceof"
-- [ ] Mixins
+- [x] Class inheritance
+- [x] Static properties and methods
+- [x] Private and protected properties and methods
+- [x] Extending built-in classes
+- [x] Class checking: "instanceof"
+- [x] Mixins
 
 ## Modules
 
@@ -68,7 +68,7 @@ This is my roadmap from Zero to Hero in JavaScript.
 - [x] Introduction: callbacks
 - [x] Promise
 - [ ] Promises chaining
-- [ ] Error handling with promises
+- [x] Error handling with promises
 - [ ] Promise API
 - [ ] Promisification
 - [ ] Microtasks
@@ -76,11 +76,11 @@ This is my roadmap from Zero to Hero in JavaScript.
 
 ## Destructuring 
 
-- [ ] Destructuring assignment
+- [x] Destructuring assignment
 
 ## Spread operator
 
-- [ ] Rest parameters and spread syntax
+- [x] Rest parameters and spread syntax
   
 ## High order array functions
 
@@ -90,3 +90,10 @@ This is my roadmap from Zero to Hero in JavaScript.
 - [ ] Sort()
 
 ## Concept of components & state
+
+## JavaScript Framwork / Libary
+- [ ] JQuery
+- [ ] Vue
+- [ ] React
+- [ ] Node
+- [ ] Express   
