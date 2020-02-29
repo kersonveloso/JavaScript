@@ -39,8 +39,8 @@ This is my roadmap from Zero to Hero in JavaScript.
 - [x] Garbage collection
 - [x] Symbol type
 - [x] Object methods, "this"
-- [ ] Object to primitive conversion
-- [ ] Constructor, operator "new"
+- [x] Object to primitive conversion
+- [x] Constructor, operator "new"
 
 ## Classes
 
@@ -80,7 +80,7 @@ This is my roadmap from Zero to Hero in JavaScript.
 
 ## Spread operator
 
-- [ ] Rest parameters and spread syntax
+- [x] Rest parameters and spread syntax
   
 ## High order array functions
 
