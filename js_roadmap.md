@@ -55,8 +55,8 @@ This is my roadmap from Zero to Hero in JavaScript.
 ## Modules
 
 - [x] Modules
-- [ ] Export and Import
-- [ ] Dynamic imports
+- [x] Export and Import
+- [x] Dynamic imports
 
 ## Error handling
 
