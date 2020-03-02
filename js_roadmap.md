@@ -67,11 +67,11 @@ This is my roadmap from Zero to Hero in JavaScript.
 
 - [x] Introduction: callbacks
 - [x] Promise
-- [ ] Promises chaining
+- [x] Promises chaining
 - [x] Error handling with promises
-- [ ] Promise API
+- [x] Promise API
 - [ ] Promisification
-- [ ] Microtasks
+- [x] Microtasks
 - [ ] Async/await
 
 ## Destructuring 
