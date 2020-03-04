@@ -23,8 +23,8 @@ This is my roadmap from Zero to Hero in JavaScript.
 
 - [x] Recursion and stack
 - [x] Rest parameters and spread syntax
-- [ ] Variable scope
-- [ ] The old "var"
+- [x] Variable scope
+- [x] The old "var"
 - [ ] Global object
 - [ ] Function object, NFE
 - [ ] The "new Function" syntax
@@ -70,9 +70,9 @@ This is my roadmap from Zero to Hero in JavaScript.
 - [x] Promises chaining
 - [x] Error handling with promises
 - [x] Promise API
-- [ ] Promisification
+- [x] Promisification
 - [x] Microtasks
-- [ ] Async/await
+- [x] Async/await
 
 ## Destructuring 
 
