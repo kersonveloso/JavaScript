@@ -93,6 +93,21 @@ This is my roadmap from Zero to Hero in JavaScript.
 
 ## JavaScript Framwork / Libary
 - [ ] JQuery
+  - [ ] 1. Selectors
+  - [ ] 2. API functions
+    - [ ] a) find(): Selects elements based on the provided selector string
+    - [ ] b) hide(): Hides an element if it was visible
+    - [ ] c) show(): Shows an element if it was hidden
+    - [ ] d) html(): Gets or sets an inner HTML of an element
+    - [ ] e) append() Injects an element into the DOM after the selected element
+    - [ ] f) prepend() Injects an element into the DOM before the selected element
+    - [ ] g) on(): Attaches an event listener to an element
+    - [ ] h) off() Detaches an event listener from an element
+    - [ ] i) css(): Gets or sets the style attribute value of an element
+    - [ ] j) attr() Gets or sets any attribute of an element
+    - [ ] k) val(): Gets or sets the value attribute of an element
+    - [ ] l) text(): Gets the combined text of an element and its children
+    - [ ] m) each(): Iterates over a set of matched elements
 - [ ] Vue
   - [ ] 1. Official Documentation are the Bomb! - Look at official style guide and Enterprise Boilerplate
   - [ ] 2. Testing - Vue Test Utils, use Jest or Mocha, Validation!
