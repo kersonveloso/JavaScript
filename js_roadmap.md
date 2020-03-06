@@ -94,6 +94,16 @@ This is my roadmap from Zero to Hero in JavaScript.
 ## JavaScript Framwork / Libary
 - [ ] JQuery
 - [ ] Vue
+  - [ ] 1. Official Documentation are the Bomb! - Look at official style guide and Enterprise Boilerplate
+  - [ ] 2. Testing - Vue Test Utils, use Jest or Mocha, Validation!
+  - [ ] 3. Vue UI / Vue CLI - GUI and tooling for building app
+  - [ ] 4. Learn Props - passing data into components
+  - [ ] 5. Vuex - global state management
+  - [ ] 6. Function Components - special SFCs `<template functional>...</template>`
+  - [ ] 7. Render function - `render(h) { return h(...) }`
+  - [ ] 8. Lazy Loading Routes - decreases bundle size
+  - [ ] 9. Computed Properties - cached, updated only when needed
+  - [ ] 10. Cool Vue Projects - Gridsome, VuePress, Vuetify, Nuxt, Vuelidate/Veevalidate, and more
 - [ ] React
 - [ ] Node
 - [ ] Express   
