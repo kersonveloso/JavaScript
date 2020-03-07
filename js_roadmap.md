@@ -84,10 +84,10 @@ This is my roadmap from Zero to Hero in JavaScript.
   
 ## High order array functions
 
-- [ ] Filter()
-- [ ] Map()
-- [ ] Reduce()
-- [ ] Sort()
+- [x] Map()
+- [x] Filter()
+- [x] Reduce()
+- [x] Sort()
 
 ## Concept of components & state
 
