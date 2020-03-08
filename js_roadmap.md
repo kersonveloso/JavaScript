@@ -91,7 +91,7 @@ This is my roadmap from Zero to Hero in JavaScript.
 
 ## Concept of components & state
 
-## JavaScript Framwork / Libary
+## JavaScript Framworks / Libaries
 - [ ] JQuery
   - [x] 1. Selectors
   - [ ] 2. API functions
