@@ -91,23 +91,26 @@ This is my roadmap from Zero to Hero in JavaScript.
 
 ## Concept of components & state
 
+- [ ] Components
+- [ ] State
+
 ## JavaScript Framworks / Libaries
 - [ ] JQuery
   - [x] 1. Selectors
   - [ ] 2. API functions
-    - [x] a) find(): Selects elements based on the provided selector string
-    - [x] b) hide(): Hides an element if it was visible
-    - [x] c) show(): Shows an element if it was hidden
-    - [x] d) html(): Gets or sets an inner HTML of an element
-    - [x] e) append() Injects an element into the DOM after the selected element
-    - [x] f) prepend() Injects an element into the DOM before the selected element
-    - [ ] g) on(): Attaches an event listener to an element
-    - [ ] h) off() Detaches an event listener from an element
-    - [ ] i) css(): Gets or sets the style attribute value of an element
-    - [x] j) attr() Gets or sets any attribute of an element
-    - [x] k) val(): Gets or sets the value attribute of an element
-    - [ ] l) text(): Gets the combined text of an element and its children
-    - [ ] m) each(): Iterates over a set of matched elements
+    - [x] a) `find()` Selects elements based on the provided selector string
+    - [x] b) `hide()` Hides an element if it was visible
+    - [x] c) `show()` Shows an element if it was hidden
+    - [x] d) `html()` Gets or sets an inner HTML of an element
+    - [x] e) `append()` Injects an element into the DOM after the selected element
+    - [x] f) `prepend()` Injects an element into the DOM before the selected element
+    - [ ] g) `on()` Attaches an event listener to an element
+    - [ ] h) `off()` Detaches an event listener from an element
+    - [ ] i) `css()` Gets or sets the style attribute value of an element
+    - [x] j) `attr()` Gets or sets any attribute of an element
+    - [x] k) `val()` Gets or sets the value attribute of an element
+    - [ ] l) `text()` Gets the combined text of an element and its children
+    - [ ] m) `each()` Iterates over a set of matched elements
 - [ ] Vue
   - [x] 1. Vue Fundamentals
   - [ ] 2. Testing - Vue Test Utils, use Jest or Mocha, Validation!
