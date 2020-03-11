@@ -25,7 +25,7 @@ This is my roadmap from Zero to Hero in JavaScript.
 - [x] Rest parameters and spread syntax
 - [x] Variable scope
 - [x] The old "var"
-- [ ] Global object
+- [x] Global object
 - [ ] Function object, NFE
 - [ ] The "new Function" syntax
 - [ ] Scheduling: setTimeout and setInterval
