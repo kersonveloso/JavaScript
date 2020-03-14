@@ -26,12 +26,12 @@ This is my roadmap from Zero to Hero in JavaScript.
 - [x] Variable scope
 - [x] The old "var"
 - [x] Global object
-- [ ] Function object, NFE
-- [ ] The "new Function" syntax
-- [ ] Scheduling: setTimeout and setInterval
-- [ ] Decorators and forwarding, call/apply
-- [ ] Function binding
-- [ ] Arrow functions revisited
+- [x] Function object, NFE
+- [x] The "new Function" syntax
+- [x] Scheduling: setTimeout and setInterval 
+- [x] Decorators and forwarding, call/apply
+- [x] Function binding
+- [x] Arrow functions revisited
 
 ## Objects
 
